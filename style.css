@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    color: brown; 
+}
+
+.main-title{    
+    text-align: center;
+}
+
+.img-container{
+    width: 100%;
+    text-align: center;
+}
+
+.hero-img{
+    width: 500px;
+    height: auto;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 30px 0 0 0px;
+}
+li a{
+    color: black;
+    font-weight: bolder;
+}
+
+li a:hover{
+    color: brown;
+}
+
+.list-img{
+    width: 150px;
+    height: auto;
+    display: block;
+}
+
